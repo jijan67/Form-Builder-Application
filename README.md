@@ -93,6 +93,13 @@ A React-based form builder application similar to Google Forms. Create, share, a
 - Block/unblock users
 - Promote/demote admins
 
+## 👥 Default Admin Login
+
+Use these credentials to access the admin features:
+- **Name:** Jijan
+- **Email:** jijan@gmail.com
+- **Password:** Jijan076
+
 ### Regular Users
 - Create and manage own templates
 - Fill out accessible forms
